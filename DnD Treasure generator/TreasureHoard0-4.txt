@@ -1,0 +1,101 @@
+6d6*100 cp, 3d6*100 sp, 2d6*10 gp
+
+
+
+
+
+
+2d6 10gGems
+2d6 10gGems
+2d6 10gGems
+2d6 10gpGems
+2d6 10gpGems
+2d6 10gpGems
+2d6 10gpGems
+2d6 10gpGems
+2d6 10gpGems
+2d6 10gpGems
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d4 25gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 50gpArt
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d4 25gpArt, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 50gpGems, 1d6 magicTableA
+2d6 10gpGems, 1d4 magicTableB
+2d6 10gpGems, 1d4 magicTableB
+2d6 10gpGems, 1d4 magicTableB
+2d6 10gpGems, 1d4 magicTableB
+2d6 10gpGems, 1d4 magicTableB
+2d4 25gpArt, 1d4 magicTableB
+2d4 25gpArt, 1d4 magicTableB
+2d4 25gpArt, 1d4 magicTableB
+2d4 25gpArt, 1d4 magicTableB
+2d4 25gpArt, 1d4 magicTableB
+2d6 50gpGems, 1d4 magicTableB
+2d6 50gpGems, 1d4 magicTableB
+2d6 50gpGems, 1d4 magicTableB
+2d6 50gpGems, 1d4 magicTableB
+2d6 50gpGems, 1d4 magicTableB
+2d6 10gpGems, 1d4 magicTableC
+2d6 10gpGems, 1d4 magicTableC
+2d6 10gpGems, 1d4 magicTableC
+2d4 25gpArt, 1d4 magicTableC
+2d4 25gpArt, 1d4 magicTableC
+2d6 50gpGems, 1d4 magicTableC
+2d6 50gpGems, 1d4 magicTableC
+2d6 50gpGems, 1d4 magicTableC
+2d6 50gpGems, 1d4 magicTableC
+2d6 50gpGems, 1d4 magicTableC
+2d4 25gpArt, 1d4 magicTableF
+2d4 25gpArt, 1d4 magicTableF
+2d4 25gpArt, 1d4 magicTableF
+2d4 25gpArt, 1d4 magicTableF
+2d4 25gpArt, 1d4 magicTableF
+2d4 25gpArt, 1d4 magicTableF
+2d4 25gpArt, 1d4 magicTableF
+2d6 50gpGems, 1d4 magicTableF
+2d6 50gpGems, 1d4 magicTableF
+2d6 50gpGems, 1d4 magicTableF
+2d6 50gpGems, 1d4 magicTableF
+2d6 50gpGems, 1d4 magicTableF
+2d4 25gpArt, 1 magicTableG
+2d4 25gpArt, 1 magicTableG
+2d6 50gpGems, 1 magicTableG
