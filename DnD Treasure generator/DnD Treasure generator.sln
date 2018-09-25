@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnD Treasure generator", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Views", "Views\Views.csproj", "{A83212BB-CCA4-42F9-8671-04B0311B28E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{072CA684-80E7-4970-B301-04D794FC617C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A83212BB-CCA4-42F9-8671-04B0311B28E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A83212BB-CCA4-42F9-8671-04B0311B28E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A83212BB-CCA4-42F9-8671-04B0311B28E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{072CA684-80E7-4970-B301-04D794FC617C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072CA684-80E7-4970-B301-04D794FC617C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072CA684-80E7-4970-B301-04D794FC617C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072CA684-80E7-4970-B301-04D794FC617C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
