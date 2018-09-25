@@ -5,7 +5,7 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:Views"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800"
+             d:DesignHeight="550" d:DesignWidth="800"
              Background="White">
     <Grid Margin="5, 0, 5, 0">
         <Grid.RowDefinitions>
@@ -63,9 +63,51 @@
         <Grid Name="MagicItems" Height="Auto" Grid.Row="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="5"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            
+            <Grid Name="MagicItemsLeftGrid" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Amount" Grid.Column="0" Grid.Row="0"/>
+                <TextBox Name="MagicItemsCountLeft" Text="0" Grid.Row="1"></TextBox>
+                <Label Content="Table" Grid.Column="1" Grid.Row="0"/>
+                <ComboBox Name="MagicItemsTableLeft" Grid.Column="1" Grid.Row="1"/>
+                <Button Name="GenerateMagicItemsLeftButton" Grid.Column="2" Grid.Row="1" Content="Generate"/>
+
+                <ListBox Name="MagicItemsLeft" Height="250" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3">
+                    
+                </ListBox>
+            </Grid>
+            <Grid Name="MagicItemsRightGrid" Grid.Column="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Amount" Grid.Column="0" Grid.Row="0"/>
+                <TextBox Name="MagicItemsCountRight" Text="0" Grid.Row="1"></TextBox>
+                <Label Content="Table" Grid.Column="1" Grid.Row="0"/>
+                <ComboBox Name="MagicItemsTableRight" Grid.Column="1" Grid.Row="1"/>
+                <Button Name="GenerateMagicItemsRightButton" Grid.Column="2" Grid.Row="1" Content="Generate"/>
+
+                <ListBox Name="MagicItemsRight" Height="250" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3">
+
+                </ListBox>
+            </Grid>
         </Grid>
     </Grid>
 </UserControl>
